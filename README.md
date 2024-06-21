@@ -26,7 +26,7 @@ Hangman is a popular word-guessing game where one player thinks of a word and th
 - Continue guessing letters until you either guess the word correctly or run out of guesses.
 
 ## Screenshot
-![Hangman Game Screenshot](https://github.com/rituramakrihnan/hangman/blob/main/Hangman_game.jpg)
+![Hangman Game Screenshot](Hangman_game.jpg)
 
 ## Contributing
 - Contributions are welcome! If you have any suggestions or improvements for the game, feel free to fork the repository, make your changes, and submit a pull request.
